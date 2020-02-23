@@ -20,5 +20,3 @@
 陈轩|2020-02-23
 陈默|2020-02-23
 已经登记20人
-
-Process finished with exit code 0
